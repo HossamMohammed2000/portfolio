@@ -1,13 +1,8 @@
-"use client";
-
-import { Project } from "@/data/Projects";
+import { Project, Props } from "../../data/projects";
 
 import { motion } from "framer-motion";
 
-type Props = {
-  project: Project;
-  index: number;
-};
+
 
 export default function ProjectCard({ project, index }: Props) {
   return (

@@ -4,7 +4,10 @@ export type Project = {
   tech: string[];
   link?: string;
 };
-
+export type Props = {
+  project: Project;
+  index: number;
+};
 export const projects: Project[] = [
   {
     title: "Movies App",
