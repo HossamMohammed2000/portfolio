@@ -1,23 +1,52 @@
-# 🚀 My Portfolio
+# 🚀 Hossam Mohamed Portfolio
 
-A personal portfolio website built with **Next.js** to showcase my skills, projects, and experience as a **Frontend Developer** in a clean and professional way.
+A modern, responsive portfolio built with Next.js to showcase my projects and skills as a Frontend Developer.
 
-## 🧠 About
+---
 
-This project presents my personal information, technical skills, and selected projects with a focus on performance, responsiveness, and clean UI.  
-It is designed to give recruiters and clients a clear overview of my work.
+## 🌍 Live Demo
 
-## ✨ Features
+https://portfolio-gilt-theta-13.vercel.app
 
-- Built with **Next.js** for performance and SEO
-- Fully responsive (mobile, tablet, desktop)
-- Clean and modern UI
-- Reusable and well-structured components
-- Fast loading and optimized performance
+---
+
+## 📸 Preview
+
+![Preview](./public/preview.png)
+
+---
+
+## 👨‍💻 About
+
+Frontend Developer focused on building modern web apps with clean UI and great performance.
+
+---
 
 ## 🛠️ Tech Stack
 
 - Next.js
-- React.js
+- React
+- TypeScript
 - Tailwind CSS
-- TypeScript / JavaScript
+- Framer Motion
+
+---
+
+## ⚙️ Features
+
+- Responsive design
+- Smooth animations
+- Projects showcase
+- Contact section
+- Fast performance
+
+---
+
+## 🚀 Run Locally
+
+```bash
+git clone https://github.com/HossamMohammed2000/portfolio.git
+cd portfolio
+npm install
+npm run dev
+```
