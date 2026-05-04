@@ -10,12 +10,6 @@ https://portfolio-gilt-theta-13.vercel.app
 
 ---
 
-## 📸 Preview
-
-![Preview](./public/preview.png)
-
----
-
 ## 👨‍💻 About
 
 Frontend Developer focused on building modern web apps with clean UI and great performance.
