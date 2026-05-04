@@ -6,7 +6,7 @@ A modern, responsive portfolio built with Next.js to showcase my projects and sk
 
 ## 🌍 Live Demo
 
-https://portfolio-gilt-theta-13.vercel.app
+https://portfolio-nine-puce-10.vercel.app
 
 ---
 
